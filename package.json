@@ -1,6 +1,8 @@
 {
 	"name": "svelte-animated-timeline",
 	"version": "0.0.1",
+	"repository": "https://github.com/sytanta/svelte-animated-timeline",
+	"homepage": "https://svelte-animated-timeline.netlify.app",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "svelte-kit sync && svelte-package",
