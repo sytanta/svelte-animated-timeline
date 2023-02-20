@@ -2,6 +2,8 @@
 
 Timeline component supporting animation, custom icon, vertical & horizontal modes
 
+This component is created and inspired by [`react-vertical-timeline`](https://github.com/stephane-monnot/react-vertical-timeline)
+
 ## Install
 
 ```bash
